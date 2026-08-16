@@ -19,7 +19,7 @@ My day-to-day work includes:
 * Acceptance criteria and backlog refinement
 * Bug, incident, and improvement triage
 * Prioritization based on impact, urgency, and dependencies
-* QA, UAT, and functional validation
+* QA support and functional validation
 * Data and product behavior investigation
 * Stakeholder alignment
 * Collaboration with Engineering, QA, Operations, Support, Marketing, and other business areas
