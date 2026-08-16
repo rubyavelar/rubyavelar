@@ -1,4 +1,4 @@
-# Hi, I'm Rúbia 
+# Hi, I'm Rubia 
 
 I'm a **Product Analyst** with a degree in **Systems Analysis and Development**, working professionally in technology since 2024 and with a background in customer-facing roles since 2017.
 
